@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoboisandy&label=Profile%20views&color=0e75b6&style=flat" alt="yoboisandy" /> </p>
 
-- 👨‍💻 All of my projects are available at [sandeep-sharma.com.np](sandeep-sharma.com.np)
+- 👨‍💻 All of my projects are available at [sandeep-sharma.com.np](https://sandeep-sharma.com.np/)
 
 - 📫 How to reach me **1949sandeepsharma52@gmail.com**
 
