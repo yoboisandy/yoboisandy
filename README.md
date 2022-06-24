@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **1949sandeepsharma52@gmail.com**
 
-- 📄 Know about my experiences [https://sandeep-sharma.com.np/cv](https://sandeep-sharma.com.np/cv)
+- 📄 Know about my experiences [https://sandeep-sharma.com.np/cv](https://sandeep-sharma.com.np/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
