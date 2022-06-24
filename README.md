@@ -20,4 +20,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoboisandy&layout=compact&theme=cobalt)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoboisandy&show_icons=true&locale=en" alt="yoboisandy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoboisandy&show_icons=true&locale=en&theme=cobalt" alt="yoboisandy" /></p>
