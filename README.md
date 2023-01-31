@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Sharma</h1>
 <h3 align="center">A passionate web developer from Nepal:nepal:</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=yoboisandy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 👨‍💻 All of my projects are available at sandeep-sharma.com.np<br><br>📫 How to reach me 1949sandeepsharma52@gmail.com<br><br>📄 Know about my experiences https://sandeep-sharma.com.np/cv
@@ -18,7 +20,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=yoboisandy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
