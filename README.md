@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=yoboisandy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-👨‍💻 All of my projects are available at https://sandeep-sharma.com.np<br><br>📫 How to reach me 1949sandeepsharma52@gmail.com<br><br>📄 Know about my experiences https://sandeep-sharma.com.np/cv
+👨‍💻 All of my projects are available at https://sandeep-sharma.com.np<br><br>📫 How to reach me 1949sandeepsharma52@gmail.com<br><br>📄 Know about my experiences https://sandeep-sharma.com.np/sandeep_resume.pdf
 
 
 ## 🌐 Socials:
