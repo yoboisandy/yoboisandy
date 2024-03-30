@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Sharma</h1>
-<h3 align="center">A Passionate Web Developer from NepalNP</h3>
+<h3 align="center">A Passionate Web Developer from Nepal</h3>
 
 [![](https://visitcount.itsvg.in/api?id=yoboisandy&icon=0&color=0)](https://visitcount.itsvg.in)
 
